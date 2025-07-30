@@ -1,0 +1,3 @@
+export CUDA_HOME=/usr/local/cuda-12.3
+export TCNN_CUDA_ARCHITECTURES=86
+export TORCH_CUDA_ARCH_LIST=8.6
